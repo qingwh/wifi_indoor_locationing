@@ -1,4 +1,4 @@
-# wifi_indoor_locationing
+# Wifi indoor locationing
 To investigate the feasibility of using "Wi-Fi fingerprinting" to determine a person's location in indoor spaces, I implemented random forest, KNN, and neural network to develop indoor positioning system by using WLAN/Wi-Fi fingerprint in Python (scikit-learn, Keras). I obtained outstanding results compared to Baseline Results of The 2015 EvAAL-ETRI Competition reported in literature.
 
 Location of data sources: The data for this project is currently stored on a database consisting of 19937 training/reference records (trainingData.csv file) and 1111 validation/test records (validationData.csv file). The database is stored by the host which address is https://archive.ics.uci.edu/ml/datasets/ujiindoorloc
